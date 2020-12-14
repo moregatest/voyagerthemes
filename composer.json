@@ -1,7 +1,7 @@
 
 {
   "name": "moregatest/voyagerthemes",
-  "description": "This hook will add support for Voyager front-end themes package name issue fixed",
+  "description": "This hook will add support for Voyager front-end themes package name issue fixed v0.16",
   "require": {
     "larapack/hooks": "~1.0"
   },
